@@ -32,5 +32,8 @@ The name of checkpoint in the checkpoint folder is based on these parameters.
 ## Results
 Following Graphs show Model Accuracy for Training and Testing Phase; Model Loss for Training and Testing Phase; and Computation Time for Training the model and Training plus Tresting the model.
 
-[Model](https://github.com/naneja/plants/blob/master/figs/model.png)
+![Model](https://github.com/naneja/plants/blob/master/figs/model.png)
+
+## Sanity Check
+![Output](https://github.com/naneja/plants/blob/master/figs/output.png)
 

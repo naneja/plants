@@ -40,11 +40,11 @@ Following Graphs show Model Accuracy for Training and Testing Phase; Model Loss 
 Please submit your feedback to [Nagender Aneja](http://expert.ubd.edu.bn/nagender.aneja). Please write an email (nagender.aneja@ubd.edu.bn) if you are interested to impement the model in a mobile app or web app. We welcome people and organization who can provide more data on plants from different countries to join this project. 
 
 ## Project Members
-1.  [Nagender Aneja](http://expert.ubd.edu.bn/nagender.aneja), nagender.aneja@ubd.edu.bn
-2.  Dr. Somnuk Phon-Amnuaisuk  somnuk.phonamnuaisuk@utb.edu.bn
-3.  [Dr. Sandhya Aneja](http://expert.ubd.edu.bn/sandhya.aneja), sandhya.aneja@ubd.edu.bn
-4.  [Dr. Hj Abd Ghani bin Hj Naim](http://expert.ubd.edu.bn/ghani.naim), ghani.naim@ubd.edu.bn
-5.  [Dr. Rahayu Sukmaria binti Hj Sukri](http://expert.ubd.edu.bn/rahayu.sukri), rahayu.sukri@ubd.edu.bn
-6.  Rodzay bin Hj Abd Wahab  rodzay.wahab@ubd.edu.bn 
-7.  Nurul Hazlina binti Hj Zaini, hazlina.zaini@ubd.edu.bn
+*  [Nagender Aneja](http://expert.ubd.edu.bn/nagender.aneja), nagender.aneja@ubd.edu.bn
+*  Dr. Somnuk Phon-Amnuaisuk  somnuk.phonamnuaisuk@utb.edu.bn
+*  [Dr. Sandhya Aneja](http://expert.ubd.edu.bn/sandhya.aneja), sandhya.aneja@ubd.edu.bn
+*  [Dr. Hj Abd Ghani bin Hj Naim](http://expert.ubd.edu.bn/ghani.naim), ghani.naim@ubd.edu.bn
+*  [Dr. Rahayu Sukmaria binti Hj Sukri](http://expert.ubd.edu.bn/rahayu.sukri), rahayu.sukri@ubd.edu.bn
+*  Rodzay bin Hj Abd Wahab  rodzay.wahab@ubd.edu.bn 
+*  Nurul Hazlina binti Hj Zaini, hazlina.zaini@ubd.edu.bn
 

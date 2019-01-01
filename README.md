@@ -22,12 +22,11 @@ Our experimental dataset has following 11 types of plants.
 ### Dataset Size
 We collected total of 740 images of 11 plants and the dataset was divided into 596 images for training the model and 144 images used for testing the model.
 
-Implementation
+
+### Implementation
 We implemented transfer learning using Alexnet with PyTorch. The following hyperparameters provided best accuracy of 91.7%.
 
 Arch = 'alexnet'; Batch = 32; Hidden_units = 4096; Epochs = 200; Dropout = 0.5; Learning Rate = 0.01, Optmizer = SGD, Momentum = 0.9
-
-The name of checkpoint in the checkpoint folder is based on these parameters.
 
 ## Results
 Following Graphs show Model Accuracy for Training and Testing Phase; Model Loss for Training and Testing Phase; and Computation Time for Training the model and Training plus Tresting the model.

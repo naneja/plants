@@ -1,9 +1,7 @@
 # Automated Plant Species Identification
 
 This repository presents results of our work to predict plant species based on the image of leaf using deep learning. The results are available in the [Notebook](https://github.com/naneja/plants/blob/master/02_Train.pdf)
-
-[comment]: # (We created a small [dataset](https://www.dropbox.com/sh/t4j8t6kb7tozs0b/AAD1J0zsBrHTlIUR2BWcd71Ma?dl=0) of 11 plants and used transfer learning using PyTorch. We also share the model [checkpoints]) 
-
+ 
 ## Dataset
 Our experimental dataset has following 11 types of plants.
 
@@ -22,7 +20,7 @@ Our experimental dataset has following 11 types of plants.
 | 11 | Petrea volubilis [VERBENACEAE] |
 
 ### Dataset Size
-We collected total of 740 images of 11 plants and the dataset was divided into 596 images for training the model and 144 images used for testing the model.
+We created [dataset](https://www.dropbox.com/sh/t4j8t6kb7tozs0b/AAD1J0zsBrHTlIUR2BWcd71Ma?dl=0) of 740 images from 11 plants and the dataset was divided into 596 images for training the model and 144 images used for testing the model.
 
 
 ### Implementation

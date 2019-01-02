@@ -1,6 +1,8 @@
-# Plant Identification using CNN
+# Automated Plant Species Identification
 
-This is the source code to predict Plant Names based on the image of leaf.
+This repository presents results of our work to predict plant species based on the image of leaf using deep learning. The results are available in the [Notebook](https://github.com/naneja/plants/blob/master/02_Train.pdf)
+
+[comment]: # (We created a small [dataset](https://www.dropbox.com/sh/t4j8t6kb7tozs0b/AAD1J0zsBrHTlIUR2BWcd71Ma?dl=0) of 11 plants and used transfer learning using PyTorch. We also share the model [checkpoints]) 
 
 ## Dataset
 Our experimental dataset has following 11 types of plants.

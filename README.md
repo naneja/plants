@@ -2,6 +2,19 @@
 
 This repository presents results of our work to predict plant species based on the image of leaf using deep learning. The results are available in the [Notebook](https://github.com/naneja/plants/blob/master/02_Train.pdf)
  
+### Implementation
+We implemented transfer learning using Alexnet with PyTorch. The following hyperparameters provided best accuracy of 91.7%.
+
+Arch = 'alexnet'; Batch = 32; Hidden_units = 4096; Epochs = 200; Dropout = 0.5; Learning Rate = 0.01, Optmizer = SGD, Momentum = 0.9
+
+## Results
+Following Graphs show Model Accuracy for Training and Testing Phase; Model Loss for Training and Testing Phase; and Computation Time for Training the model and Training plus Tresting the model.
+
+![Model](https://github.com/naneja/plants/blob/master/figs/model.png)
+
+## Sanity Check
+![Output](https://github.com/naneja/plants/blob/master/figs/output.png)
+
 ## Dataset
 Our experimental dataset has following 11 types of plants.
 
@@ -22,19 +35,6 @@ Our experimental dataset has following 11 types of plants.
 ### Dataset Size
 We created [dataset](https://www.dropbox.com/sh/t4j8t6kb7tozs0b/AAD1J0zsBrHTlIUR2BWcd71Ma?dl=0) of 740 images from 11 plants and the dataset was divided into 596 images for training the model and 144 images used for testing the model.
 
-
-### Implementation
-We implemented transfer learning using Alexnet with PyTorch. The following hyperparameters provided best accuracy of 91.7%.
-
-Arch = 'alexnet'; Batch = 32; Hidden_units = 4096; Epochs = 200; Dropout = 0.5; Learning Rate = 0.01, Optmizer = SGD, Momentum = 0.9
-
-## Results
-Following Graphs show Model Accuracy for Training and Testing Phase; Model Loss for Training and Testing Phase; and Computation Time for Training the model and Training plus Tresting the model.
-
-![Model](https://github.com/naneja/plants/blob/master/figs/model.png)
-
-## Sanity Check
-![Output](https://github.com/naneja/plants/blob/master/figs/output.png)
 
 ## Feedback
 Please submit your feedback to [Nagender Aneja](http://expert.ubd.edu.bn/nagender.aneja). Please write an email (nagender.aneja@ubd.edu.bn) if you are interested to impement the model in a mobile app or web app. We welcome people and organization who can provide more data on plants from different countries to join this project. 

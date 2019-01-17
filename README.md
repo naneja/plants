@@ -40,7 +40,7 @@ We created [dataset](https://www.dropbox.com/sh/t4j8t6kb7tozs0b/AAD1J0zsBrHTlIUR
 Please submit your feedback to [Nagender Aneja](http://expert.ubd.edu.bn/nagender.aneja). Please write an email (nagender.aneja@ubd.edu.bn) if you are interested to impement the model in a mobile app or web app. We welcome people and organization who can provide more data on plants from different countries to join this project. 
 
 ## Project Members
-*  [Nagender Aneja](http://expert.ubd.edu.bn/nagender.aneja), nagender.aneja@ubd.edu.bn
+*  [Dr. Nagender Aneja](http://expert.ubd.edu.bn/nagender.aneja), nagender.aneja@ubd.edu.bn
 *  Dr. Somnuk Phon-Amnuaisuk  somnuk.phonamnuaisuk@utb.edu.bn
 *  [Dr. Sandhya Aneja](http://expert.ubd.edu.bn/sandhya.aneja), sandhya.aneja@ubd.edu.bn
 *  [Dr. Hj Abd Ghani bin Hj Naim](http://expert.ubd.edu.bn/ghani.naim), ghani.naim@ubd.edu.bn
